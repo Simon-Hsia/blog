@@ -36,7 +36,7 @@ export default hopeTheme(
     sidebar,
 
     footer:
-      '在互联网的这个角落，本站已默默运行Y年M月D天H小时m分mm秒&emsp;&emsp;累计浏览量 7892',
+      '小站搭建不久，百业待兴，虽然目前没有太多优质内容，但我会坚持维护尽量产出，敬请期待！',
 
     breadcrumb: false,
     displayFooter: true,

@@ -4,7 +4,7 @@ npm run docs:build
 
 cd src/.vuepress/dist
 
-echo 'simonhsia.top' > CNAME
+echo 'www.simonhsia.top' > CNAME
 
 git init
 git add .
