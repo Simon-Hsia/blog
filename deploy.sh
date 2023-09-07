@@ -4,6 +4,8 @@ npm run docs:build
 
 cd src/.vuepress/dist
 
+echo 'simonhsia.top' > CNAME
+
 git init
 git add .
 git commit -m 'deploy'
