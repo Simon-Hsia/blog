@@ -32,7 +32,6 @@ export default hopeTheme(
       end: ['Links', 'Outlook']
     },
 
-    // sidebar
     sidebar,
 
     footer:
