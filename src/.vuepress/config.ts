@@ -4,7 +4,7 @@ import theme from './theme.js'
 import path from 'path'
 
 export default defineUserConfig({
-  base: '/',
+  base: '/src/',
 
   lang: 'zh-CN',
   title: 'Simon Hsia',
