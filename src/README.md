@@ -4,6 +4,6 @@ layout: BlogHome
 icon: home
 title: 首页
 heroText: Simon Hsia
-tagline: 千里之行  始于足下
+tagline: 满招损 谦受益
 bgImage: './assets/images/cover1.jpg'
 ---
