@@ -30,16 +30,20 @@ export default navbar([
     prefix: '/projects/',
     children: [
       {
-        text: 'lrc 歌词解析',
-        link: 'lrc 歌词解析/'
+        text: '哆啦A梦桌宠助手',
+        link: '哆啦A梦桌宠助手/'
       },
       {
-        text: '工业控制 GUI',
-        link: '工业控制 GUI/'
+        text: '个人博客',
+        link: '个人博客/'
       },
       {
-        text: '智能音响',
-        link: '智能音响/'
+        text: '尚品汇电商购物项目',
+        link: '尚品汇电商购物平台前端项目/'
+      },
+      {
+        text: '大事件文章管理系统',
+        link: '大事件文章管理系统/'
       }
     ]
   },
