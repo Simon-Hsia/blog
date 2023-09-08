@@ -1,0 +1,1 @@
+import{_ as t,r as o,o as n,c as _,a,d as c,w as r,b as s}from"./app-1116f4bd.js";const l={};function d(u,f){const e=o("RouterLink");return n(),_("div",null,[a("p",null,[c(e,{to:"/note/C/"},{default:r(()=>[s("点此跳转")]),_:1})])])}const m=t(l,[["render",d],["__file","02C语言笔记.html.vue"]]);export{m as default};

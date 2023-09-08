@@ -1,0 +1,1 @@
+import{_ as c,o as t,c as a,a as e,b as n}from"./app-1116f4bd.js";const o={},r=e("h2",{id:"这是-c-笔记-等-c-语言写完了写这个",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#这是-c-笔记-等-c-语言写完了写这个","aria-hidden":"true"},"#"),n(" 这是 c++笔记，等 c 语言写完了写这个")],-1),s=[r];function _(d,i){return t(),a("div",null,s)}const l=c(o,[["render",_],["__file","index.html.vue"]]);export{l as default};
